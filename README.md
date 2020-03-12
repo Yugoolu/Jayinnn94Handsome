@@ -9,6 +9,8 @@
 2. Ethan
 3. Jayin
 
+我會寫程式
+
 ```python
 print("hello world")
 ```
